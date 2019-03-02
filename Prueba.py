@@ -76,5 +76,6 @@ while op!=3:
 		print("Gracias por visitarnos")
 
 	elif op>3:
-		print("Opción erronea vuelve a insertar")		
+		print("Opción erronea vuelve a insertar")
+		print("Vamos amigos")		
 
